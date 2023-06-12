@@ -1,5 +1,3 @@
-# Enoca
- Bacnkend Challange
 
 # EnocaDemo
 ## Proje için tamamlanan İsterler:
